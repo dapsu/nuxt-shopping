@@ -1,6 +1,6 @@
 <template>
   <div>
-    <p>nuxt 시작하기</p>
+    <p>메인 페이지입니다.</p>
   </div>
 </template>
 
